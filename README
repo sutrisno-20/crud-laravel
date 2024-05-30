@@ -1,0 +1,11 @@
+#CRUD LARAVEL
+- using xampp
+- using visual studio as text editor
+- using php 8.2
+- using composer
+
+#how to run
+- check version (laravel and php)
+- make a database first
+- run on command line php artisan serve
+- run on command line php artisan migrate
